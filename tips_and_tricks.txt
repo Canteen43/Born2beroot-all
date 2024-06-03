@@ -1,0 +1,8 @@
+Inspiration on how to tackle the project:
+- ChatGPT 10-step-guide
+- Youtube Video
+
+How to start:
+- Open VirtualBox
+- Download Debian
+- Create the first Virtual Machine
